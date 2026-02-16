@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "温馨聊天",
+    "slug": "warm-chat",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.warmchat.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.warmchat.app"
+    },
+    "userInterfaceStyle": "light"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "build": {
+    "production": {
+      "env": {},
+      "android": {
+        "buildType": "apk"
+      },
+      "ios": {
+        "simulator": false
+      }
+    }
+  }
+}
