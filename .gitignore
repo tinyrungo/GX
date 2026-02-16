@@ -1,0 +1,8 @@
+node_modules/
+mobile/node_modules/
+.DS_Store
+.env
+chat_app/backend/uploads/
+chat_app/backend/chat.db
+npm-debug.log
+yarn.lock
